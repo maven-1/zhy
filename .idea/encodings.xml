@@ -9,9 +9,13 @@
     <file url="file://$PROJECT_DIR$/hy-controller/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hy-entity/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hy-entity/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hy-nacos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hy-nacos/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hy-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hy-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled/src/main/resources" charset="UTF-8" />
   </component>
 </project>
