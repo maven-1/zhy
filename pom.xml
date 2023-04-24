@@ -88,7 +88,7 @@
                 <artifactId>spring-cloud-dependencies</artifactId>
                 <version>${spring-cloud.version}</version>
                 <type>pom</type>
-                <scope>import</scope>
+                <scope>compile</scope>
             </dependency>
 
             <!-- SpringCloud Alibaba 微服务 -->
@@ -97,7 +97,7 @@
                 <artifactId>spring-cloud-alibaba-dependencies</artifactId>
                 <version>${spring-cloud-alibaba.version}</version>
                 <type>pom</type>
-                <scope>import</scope>
+                <scope>compile</scope>
             </dependency>
 
             <!-- SpringBoot 依赖配置 -->
@@ -106,7 +106,7 @@
                 <artifactId>spring-boot-dependencies</artifactId>
                 <version>${spring-boot.version}</version>
                 <type>pom</type>
-                <scope>import</scope>
+                <scope>compile</scope>
             </dependency>
 
             <!-- Swagger 依赖配置 -->
